@@ -79,4 +79,4 @@ I build full-stack applications and AI-integrated systems, with a background in 
 ### Connect with me
 [LinkedIn](https://linkedin.com/in/abdutello) &nbsp;•&nbsp; [GitHub](https://github.com/AbduTello)
 
-<p align="center"><i> &nbsp;|&nbsp; Thanks for stopping by!</i></p>
+<p align="center"><i> &nbsp;&nbsp; Thanks for stopping by!</i></p>
