@@ -22,9 +22,13 @@ I enjoy building practical software end to end — from backend APIs and databas
 ## Tech Stack
 
 **Languages:** Python, TypeScript, JavaScript, C++, C#
+ <br>
 **Frontend:** React, Next.js, Tailwind CSS
+ <br>
 **Backend:** Node.js, FastAPI, Flask, Django
+ <br>
 **Databases:** PostgreSQL, SQL, Firebase, Supabase
+ <br>
 **Tools:** Git, Docker, REST APIs, OAuth, Jenkins, Postman, Linux
 
 ## Connect
