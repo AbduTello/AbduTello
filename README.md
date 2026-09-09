@@ -63,19 +63,6 @@ I build full-stack applications and AI-integrated systems, with a background in 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbduTello&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbduTello&layout=compact&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbduTello&hide_border=true" width="60%" />
-</p>
-
----
-
 ### Connect with me
 [LinkedIn](https://linkedin.com/in/abdutello) &nbsp;•&nbsp; [GitHub](https://github.com/AbduTello)
 
